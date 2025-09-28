@@ -63,12 +63,12 @@
   border: 0;
   font-weight: 600;
   font-size: 22px;
-  background-color: rgba(0, 102, 255, 0.623);
+  background-color: rgba(215, 154, 232, 0.623);
   padding: 6px 20px;
 }
 
 .load-more-button:hover {
-  background-color: rgba(0, 59, 148, 0.623);
+  background-color: rgba(116, 0, 148, 0.623);
 }
 
 @media screen and (min-width: 768px) {
